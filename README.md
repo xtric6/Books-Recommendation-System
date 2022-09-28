@@ -16,11 +16,12 @@ This system was created based on books written by Charles Darwin.Charles Darwin 
 
 ### Technologies used
 
-* Pandas
-* re
-* seaborn
-* nltk
-* gensim
+* `Pandas`
+* `re`
+* `seaborn`
+* `matplotlib`
+* `nltk`
+* `gensim`
 
 ### Project Description
 
