@@ -11,6 +11,8 @@ This system was created based on books written by Charles Darwin.Charles Darwin 
 * Content based recommendation system
 * Data Visualization
 * Machine learning
+* Data Manipulation
+* Statistics and probability
 
 ### Technologies used
 
@@ -27,7 +29,7 @@ The main aim of this project is to determine how closely related each book are t
 
 ### Industries that could leverage the use of content based recommendation systems
 
-This method is commonly used in text- or documents-heavy industries, in handling textr classification or handling search enegine querises. This industries include:
+This method is commonly used in text- or documents-heavy industries, in handling text classification or handling search enegine queries. These industries include:
 
 * Legal
 * Tech
