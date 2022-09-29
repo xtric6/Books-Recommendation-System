@@ -22,6 +22,7 @@ This system was created based on books written by Charles Darwin.Charles Darwin 
 * `matplotlib`
 * `nltk`
 * `gensim`
+* `scipy`
 
 ### Project Description
 
