@@ -9,7 +9,7 @@ This system was created based on books written by Charles Darwin.Charles Darwin 
 ### Methods Used
 
 * Content based recommendation system
-* Data Visualization
+* Data Visualizations
 * Machine learning
 * Data Manipulation
 * Statistics and probability
